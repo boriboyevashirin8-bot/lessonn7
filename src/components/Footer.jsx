@@ -16,7 +16,7 @@ const Footer = () => {
       <div className="max-w-7xl mx-auto px-4 grid grid-cols-1 md:grid-cols-4 gap-10">
         <div>
           <div className="flex items-center space-x-3">
-            <img src={logo} alt="URElocation" className="w-auto h-30" />
+            <img src={logo} alt="URElocations" className="w-auto h-30" />
           </div>
         </div>
 
